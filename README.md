@@ -1,4 +1,4 @@
-<h1>Previsão do tempo<h1/>
+<h1>Previsão do tempo</h1>
 <br>
 <h2>Esse foi um projeto que aprendi no <a  href="http://rodolfomori.com.br/devclub">DevClub</a> </h2>
 
